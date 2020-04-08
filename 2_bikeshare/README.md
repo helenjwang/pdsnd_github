@@ -1,7 +1,6 @@
 # bikeshare
 ## Introduction
-This is part of Udacity Python foundation course that uses knowledge of Python's modules- Pandas and Numpy, to make sense of the bike sharing data provided, and answer relevant questions about it.
-
+This is the project for me to utilize Pandas and Numpy
 ## How to use
 This repository contains-
 1. Three csv files with data for three cities- <i>chicago.csv</i>, <i>new_york_city.csv</i>, <i>washington.csv</i>.
@@ -13,7 +12,8 @@ To use the project-
 
 ## Resources
 To complete the project, I used my knowledge which I gained over the course of studying the Python Foundation Nanodegree Program on Udacity.
-If I got stuck some place, the source(s) below helped me-
+
+Reference list 
 1. [Stackoverflow](https://stackoverflow.com/)
 2. [Python documentation](https://docs.python.org/3/library/)
 3. [Tutorials Point](https://www.tutorialspoint.com/python/)
