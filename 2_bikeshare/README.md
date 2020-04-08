@@ -19,5 +19,5 @@ If I got stuck some place, the source(s) below helped me-
 3. [Tutorials Point](https://www.tutorialspoint.com/python/)
 4. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/version/0.17.0/)
 5. I used [Jupyter Notebook](http://jupyter.org/) extensively for quickly running small snippets of code, and [Atom editor](https://atom.io/) for bigger pieces of code.
-
+ I also learnt on how to manipulate the data with advanced Pandas fuction. 
 ##### To install and setup Python 3.6- go [here](about:blank).
