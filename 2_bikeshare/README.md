@@ -8,8 +8,7 @@ This repository contains-
 
 To use the project-
 1. Place the <i>bikeshare.py</i> file and all the CSV files in the same folder.
-2. Run the python file using a suitable python interpreter.
-
+2. Run the python in the required environment -- I will recommend run in the PyCharm
 ## Resources
 To complete the project, I used my knowledge which I gained over the course of studying the Python Foundation Nanodegree Program on Udacity.
 
